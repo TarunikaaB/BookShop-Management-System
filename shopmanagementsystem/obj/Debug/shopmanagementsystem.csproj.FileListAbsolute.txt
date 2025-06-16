@@ -1,0 +1,21 @@
+C:\Users\Asus\source\repos\shopmanagementsystem\shopmanagementsystem\bin\Debug\shopmanagementsystem.exe.config
+C:\Users\Asus\source\repos\shopmanagementsystem\shopmanagementsystem\bin\Debug\shopmanagementsystem.exe
+C:\Users\Asus\source\repos\shopmanagementsystem\shopmanagementsystem\bin\Debug\shopmanagementsystem.pdb
+C:\Users\Asus\source\repos\shopmanagementsystem\shopmanagementsystem\obj\Debug\shopmanagementsystem.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\shopmanagementsystem\shopmanagementsystem\obj\Debug\shopmanagementsystem.Book.resources
+C:\Users\Asus\source\repos\shopmanagementsystem\shopmanagementsystem\obj\Debug\shopmanagementsystem.Form1.resources
+C:\Users\Asus\source\repos\shopmanagementsystem\shopmanagementsystem\obj\Debug\shopmanagementsystem.Login.resources
+C:\Users\Asus\source\repos\shopmanagementsystem\shopmanagementsystem\obj\Debug\shopmanagementsystem.Password.resources
+C:\Users\Asus\source\repos\shopmanagementsystem\shopmanagementsystem\obj\Debug\shopmanagementsystem.Properties.Resources.resources
+C:\Users\Asus\source\repos\shopmanagementsystem\shopmanagementsystem\obj\Debug\shopmanagementsystem.User.resources
+C:\Users\Asus\source\repos\shopmanagementsystem\shopmanagementsystem\obj\Debug\shopmanagementsystem.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\shopmanagementsystem\shopmanagementsystem\obj\Debug\shopmanagementsystem.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\shopmanagementsystem\shopmanagementsystem\obj\Debug\shopmanagementsystem.exe
+C:\Users\Asus\source\repos\shopmanagementsystem\shopmanagementsystem\obj\Debug\shopmanagementsystem.pdb
+C:\Users\Asus\source\repos\shopmanagementsystem\shopmanagementsystem\obj\Debug\shopmanagementsystem.amount.resources
+C:\Users\Asus\source\repos\shopmanagementsystem\shopmanagementsystem\obj\Debug\shopmanagementsystem.Dashboard.resources
+C:\Users\Asus\source\repos\shopmanagementsystem\shopmanagementsystem\obj\Debug\shopmanagementsystem.Print.resources
+C:\Users\Asus\source\repos\shopmanagementsystem\shopmanagementsystem\obj\Debug\BookshopManagementSystem.Login.resources
+E:\Taru Projects\shopmanagementsystem\shopmanagementsystem\obj\Debug\shopmanagementsystem.csproj.AssemblyReference.cache
+E:\Taru Projects\shopmanagementsystem\shopmanagementsystem\obj\Debug\shopmanagementsystem.exe
+E:\Taru Projects\shopmanagementsystem\shopmanagementsystem\obj\Debug\shopmanagementsystem.pdb
